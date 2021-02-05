@@ -51,7 +51,7 @@ Edit the site attributes in *_config.yml* and edit the various entries in *_incl
 
 I have tested this install with:
 
-* MacOS 10.14
+* MacOS 11.1
 * Docker version 18.06.1-ce, build e68fc7a
 * Chrome 69.0.3497.100 (for livereload feature)
 
