@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.name }}'s Résumé">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+<body>
+<div class="container">
+    <a href="{{ site.production_path }}">Link to actual version of this CV</a><br>
+
+    Phone: <a href="{{ site.tel_full }}">{{ site.tel }}</a>,
+    Email: <a href="{{ site.email_full }}">{{ site.email }}</a><br>
+
+        <a href="https://github.com/{{ site.github }}">github.com/{{ site.github }}</a>
+
+    {{ content }}
+</div>
+
+</body>
+</html>
