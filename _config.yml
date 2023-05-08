@@ -16,11 +16,12 @@ baseurl: /
 title: Oksana Onilova's Resume
 name: Oksana Onilova
 email: onilovaoksana@gmail.com
+phone: +351914018633
 email_full: mailto:onilovaoksana@gmail.com
 github: onsana
 address:
-  city: Kherson
-  country: Ukraine
+  city: Almada
+  country: Portugal
 twitter: i_do_not_have_it
 
 # needed for travis-ci build
